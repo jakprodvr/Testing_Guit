@@ -7,7 +7,8 @@ namespace Testing_Guit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            
+            Console.WriteLine("holla de nuevo en el cine");
+
             Console.Read();
         }
     }
