@@ -15,6 +15,12 @@ namespace Testing_Guit
 
             Console.WriteLine("Hello World!");
             Console.WriteLine("nuevo");
+
+            //git by console, using vs 2019
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("nuevo");
+
+
             Console.Read();
         }
     }
