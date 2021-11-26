@@ -8,6 +8,9 @@ namespace Testing_Guit
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("nuevo");
+
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("nuevo");
             Console.Read();
         }
     }
