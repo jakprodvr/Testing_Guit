@@ -16,9 +16,9 @@ namespace Testing_Guit
             Console.WriteLine("Hello World!");
             Console.WriteLine("nuevo");
 
-            //git by console, using vs 2019
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("nuevo");
+            //git by console, using vs 001
+            Console.WriteLine("we are from concole");
+            
 
 
             Console.Read();
